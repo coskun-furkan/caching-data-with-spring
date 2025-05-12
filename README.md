@@ -27,8 +27,6 @@ The idea is to simulate a slow data fetch process and then improve it using Spri
 
 # Folder structure
 
-## 📂 Folder structure
-
 src  
 ├── main  
 │   ├── java  
